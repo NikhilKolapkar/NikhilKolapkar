@@ -132,6 +132,8 @@ Adept at integrating tools like **Azure DevOps**, **Docker**, **GitHub Copilot**
   </tr>
 </table>
 
+---
+
 ## 🚀 Azure DevOps CI/CD Pipeline Implementation
 
 As part of my work in automating the testing lifecycle, I have implemented fully automated **CI/CD pipelines** in **Azure DevOps** to streamline the software delivery process.
@@ -143,3 +145,20 @@ As part of my work in automating the testing lifecycle, I have implemented fully
 - **Infrastructure as Code**: Automated infrastructure provisioning using ARM templates and Terraform.
 
 Check out the [full implementation](link-to-repository) for more details on how I’ve automated the entire process from commit to deployment with Azure DevOps.
+
+---
+
+## 📂 Projects
+
+### 🚘 Selenium Java Automation Framework
+
+🔗 [View Project Repository](https://github.com/NikhilKolapkar/Selenium_Java_Automation/tree/main)
+
+A comprehensive automation testing framework built using **Selenium WebDriver with Java**, designed for scalable and maintainable UI automation.  
+
+**🔧 Features:**
+- **Page Object Model (POM)** architecture for code reuse and maintainability  
+- Supports **cross-browser testing** and **parallel execution**  
+- Integrated with **TestNG** for test execution and reporting  
+- **Data-driven testing** with external data sources (Excel/CSV)  
+- Modular and easy-to-extend structure suitable for real-world projects  
