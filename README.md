@@ -161,4 +161,18 @@ A comprehensive automation testing framework built using **Selenium WebDriver wi
 - Supports **cross-browser testing** and **parallel execution**  
 - Integrated with **TestNG** for test execution and reporting  
 - **Data-driven testing** with external data sources (Excel/CSV)  
-- Modular and easy-to-extend structure suitable for real-world projects  
+- Modular and easy-to-extend structure suitable for real-world projects
+
+### 💻 Selenium .NET C# Automation Framework
+🔗 [View Project Repository](https://github.com/NikhilKolapkar/.NetFramework.git)
+
+A powerful test automation framework using Selenium WebDriver with C#, built for large-scale enterprise projects.
+
+**🔧 Features:**
+
+- Developed using .NET Framework and C#
+- Follows Keyword-Driven, Data-Driven, and Hybrid design patterns
+- Integrated with Azure DevOps for CI/CD pipelines
+- Configurable test execution using external files (XML/JSON/CSV)
+- Supports parallel execution across multiple environments using VMs
+- Seamless reporting and logging using Allure Reports and built-in logging tools
