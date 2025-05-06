@@ -21,9 +21,10 @@ Experienced **Automation Test Engineer** with a strong passion for designing sca
 
 Adept at integrating tools like **Azure DevOps**, **Docker**, **GitHub Copilot**, and **ChatGPT** to drive faster quality releases. Passionate about combining AI and automation to deliver smarter, more reliable testing solutions across UI and API layers.
 
-📍 Based in India  
+ 
 📫 [Let's Connect on LinkedIn](https://www.linkedin.com/in/nikhilkolapkar/)  
-📄 [**Download My Resume**](https://github.com/NikhilKolapkar/NikhilKolapkar/blob/6532460ba35abcae4d5fbdc0efdac2db234b52e4/Nikhil%20Kolapkar.pdf)
+📄 [**Download My Resume**](https://github.com/NikhilKolapkar/NikhilKolapkar/6532460ba35abcae4d5fbdc0efdac2db234b52e4/Nikhil%20Kolapkar.pdf)
+<!-- 📄 [**Download My Resume**](https://github.com/NikhilKolapkar/NikhilKolapkar/blob/6532460ba35abcae4d5fbdc0efdac2db234b52e4/Nikhil%20Kolapkar.pdf)-->
 
 ---
 
